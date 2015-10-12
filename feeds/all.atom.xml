@@ -96,4 +96,10 @@ for i in 1 .. 10 { 呼叫特定函式(i) }
 &lt;p&gt;註腳會連結到這裡.&amp;#160;&lt;a class="footnote-backref" href="#fnref:1" rev="footnote" title="Jump back to footnote 1 in the text"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
+&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>40423234</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
+&lt;p&gt;空白&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/3d_parts_viewer.png" width="250" alt="3D 零件檢視"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):&lt;/p&gt;
+&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry></feed>
